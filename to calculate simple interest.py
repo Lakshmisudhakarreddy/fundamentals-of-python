@@ -1,4 +1,4 @@
-#write a program to P,T,R and calculate simple interest
+#write a program to P,T,R and calculate simple interest And compound interest
 p=float(input("enter principle amount:"))
 t=float(input("enter time period:"))
 r=float(input("enter rate:"))
